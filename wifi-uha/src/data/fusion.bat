@@ -1,1 +1,0 @@
-copy *. masterlistpremiercopy.csv
